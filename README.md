@@ -3,7 +3,7 @@
 ### My nane is Ian Sekelsky, an aspiring data scientist! My passion for data comes from my attention to details in sports. My career goal is to one day be able to work with amazing people in the sports data science world!
 
 
-### In this repository I have my projects that I hace worked on during my own time. 
+### In this repository I have my projects that I have worked on during my own time. 
 <!--
 **IanjsII/IanjsII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
